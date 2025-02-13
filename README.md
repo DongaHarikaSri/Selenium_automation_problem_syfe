@@ -7,8 +7,10 @@ This project is a Selenium-based automation suite for testing the functionalitie
 Python
 Selenium
 # Installation
-Install Python from python.org.
+Install Python from python.org
+
 Install Selenium : pip install selenium
+
 python main1.py
 
 working video :https://drive.google.com/file/d/1oZL5INnhw-nSWK3NMgwm4Up25MmsTLqy/view?usp=sharing
