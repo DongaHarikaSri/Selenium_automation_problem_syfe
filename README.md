@@ -7,7 +7,7 @@ This project is a Selenium-based automation suite for testing the functionalitie
 Python
 Selenium
 # Installation
-Install Python from python.org
+Install Python from https://www.python.org/
 
 Install Selenium : pip install selenium
 
